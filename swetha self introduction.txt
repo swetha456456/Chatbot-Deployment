@@ -1,0 +1,45 @@
+NLP Problem statement:
+
+we have different types of documents in the repository called as 
+share parts.
+overhere, last 1 year of documents we need to classify the files
+into groups to perform automatic content and product document
+classification.
+
+Gen AI:
+
+To design and develop intelligent chatbot capable of generating 
+creative content for various applications including marketing
+customer engagemnt, and personalized communication.the chatbot 
+should leverage advanced models and AI techniques to produce
+high quality, contexually relevantand engaging content
+automatically.
+
+Self-Introduction:
+
+Hello, my name is swetha, and I am a Data Scientist with 2.7 years of experience in the field. 
+My expertise lies in Generative AI,  Machine Learning, and Natural Language Processing (NLP). 
+Over the years, I have worked on various AI models and deployed them to solve practical business problems, utilising a range 
+of advanced algorithms and technologies.
+
+In Generative AI, I have hands-on experience with models like GPT (Generative Pre-trained Transformer) and diffusion models, 
+focusing on generating creative content such as text, images, and video. I've worked on building chatbots, content generation tools,
+and other AI-powered solutions customised for specific business needs.
+
+For Machine Learning, I am proficient in using algorithms like Random Forest, XGBoost, K-Means Clustering, and 
+Support Vector Machines (SVM). I have developed models for predictive analytics, fraud detection, and customer segmentation, 
+employing techniques such as hyperparameter tuning, cross-validation, and feature engineering to optimise model performance.
+
+In Natural Language Processing (NLP), I have worked on projects like sentiment analysis, text classification, named entity 
+recognition (NER), and language translation. I have utilised models such as BERT (Bidirectional Encoder Representations from 
+Transformers) and LSTM (Long Short-Term Memory networks) to solve a wide range of text-based problems, including chatbot development 
+and text summarisation.
+
+Additionally, I am experienced in using tools like GitHub for version control and Jira for project management and team collaboration.
+I believe in writing clean, efficient code and following best practices in code quality and version management.
+
+As a team player, I enjoy working in collaborative environments and sharing knowledge with peers to achieve common goals. 
+I have mentored junior team members, contributed to code debugging, and consistently strive to improve code quality in projects.
+
+I am always keen to learn and apply the latest advancements in AI to deliver impactful solutions. My goal is to leverage data-driven 
+insights and AI to make a positive difference in business outcomes.
