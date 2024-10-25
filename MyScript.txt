@@ -1,0 +1,48 @@
+hj
+Self Introduction:
+------------------
+Myself Siva Kumar, having 3.10 years experience in data science, machine learning, artificial intelligence and computer vision 
+on both Telecommunication and Banking domains.
+I have worked on end to end data science machine learning projects starting from data collection, preprocessing, model building, 
+model validation and model deployment. 
+My experience includes applying both supervised and unsupervised algorithms to solve complex data science problems.
+I have strong expertise in Python, particularly with frameworks like Pandas, NumPy, TensorFlow, and Keras. 
+Good Exposure in generating visualization graphs by using Seaborn, Matplotlib.
+I have strong knowledge on oracle database, where i used SQL language to fetch data from the database.
+I am an actually individual contributor i have also been part of multiple teams.
+I use github, ServiceNow and jira for project management, i am familiar with these tools.   
+Last 2 years, i have working on Gen AI Chatbot projects 
+And prior to this i have worked on Signature Verification and Forgery Detection project to upskilling my self while doing 
+this in Computer Vision.
+Before to this i have worked on Churn predictions.
+My Day to Day responsibilities are primarily coding in python, solving Data science machine learning projects.
+
+4 years of experience in Data Science and Machine learning with skill sets that help in building supervised and 
+unsupervised machine learning models, data modelling using Python (Pandas, Numpy).
+
+Project -1: TaxBot
+## Problem Statement: 
+Businesses and individuals  are facing challenges in accurately calculating taxes based on varying tax laws, 
+deductions, and income brackets. Manual tax calculation is time-consuming, prone to errors, 
+and can result in missed deductions or incorrect filings. 
+To address this issue, we developed a tax-bot capable of automating tax calculations by extracting relevant data 
+from documents (PDFs, CSVs) and applying tax rules to deliver accurate tax computations.
+
+## Tax-bot assists users in:
+Determining tax liabilities based on income, expenses, and applicable deductions.
+Parsing and extracting data from financial documents.
+Providing detailed reports for tax filing purposes.
+Offering support for tax-related queries and compliance with local tax regulations.
+
+Project -2: GenVisualization
+Problem Statement :
+
+Project -3: Signature Verification and Forgery Detection project
+Problem Statement :
+
+Project -4: Churn Prediction 
+Machine Learning Project flow:
+
+
+
+
